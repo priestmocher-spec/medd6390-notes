@@ -16,208 +16,69 @@ How do we design mathematical tasks that truly engage students in thinking mathe
 
 This course explores instructional design in mathematics education across four dimensions: the building blocks of task design, the goals we design toward, the constraints we design within, and the evolving identity of the teacher as designer.
 
-These notes cover 9 sessions, 8 classroom cases, and 13 reading summaries compiled during the course.
+These notes cover 9 sessions, 8 classroom cases, and 13 reading summaries.
 
 ---
 
 ## Sessions
 
-<div class="card-grid">
-
-<a class="card" href="./sessions/S1-Introduction">
-<div class="card-icon">01</div>
-<div class="card-body">
-<div class="card-title">Introduction</div>
-<div class="card-desc">Course overview, what makes a good math task</div>
+<div class="section-card">
+<div class="section-header">
+<span class="section-icon">📖</span>
+<span class="section-label">Lecture Notes</span>
 </div>
-</a>
-
-<a class="card" href="./sessions/S2-Task-Design">
-<div class="card-icon">02</div>
-<div class="card-body">
-<div class="card-title">Task Design</div>
-<div class="card-desc">Principles of designing mathematical tasks</div>
+<ul class="nav-list">
+<li><a href="./sessions/S1-Introduction"><strong>S1 Introduction and Noticing</strong><span class="nav-desc">What makes a good math task? Starting with professional noticing</span></a></li>
+<li><a href="./sessions/S2-Task-Design"><strong>S2 Task Design</strong><span class="nav-desc">Principles and frameworks for designing mathematical tasks</span></a></li>
+<li><a href="./sessions/S3-Digital-Tools"><strong>S3 Digital Tools</strong><span class="nav-desc">Technology, representations, and tools in math teaching</span></a></li>
+<li><a href="./sessions/S4-Maths-Talk"><strong>S4 Mathematical Talk</strong><span class="nav-desc">Classroom discourse and pedagogic constructs</span></a></li>
+<li><a href="./sessions/S5-Mathematical-Concepts"><strong>S5 Mathematical Concepts</strong><span class="nav-desc">Concept development, understanding, and connections</span></a></li>
+<li><a href="./sessions/S6-Mathematical-Thinking"><strong>S6 Mathematical Thinking</strong><span class="nav-desc">Fostering mathematical reasoning and problem-solving</span></a></li>
+<li><a href="./sessions/S7-Mastery-and-Variation"><strong>S7 Mastery and Variation</strong><span class="nav-desc">Teaching with variation theory and mastery approaches</span></a></li>
+<li><a href="./sessions/S8-Learner-Diversity"><strong>S8 Learner Diversity</strong><span class="nav-desc">Equity, inclusion, and differentiation in math education</span></a></li>
+<li><a href="./sessions/S9-Teacher-Researcher-Designer"><strong>S9 Teacher Researcher Designer</strong><span class="nav-desc">The teacher as reflective practitioner and curriculum designer</span></a></li>
+</ul>
 </div>
-</a>
-
-<a class="card" href="./sessions/S3-Digital-Tools">
-<div class="card-icon">03</div>
-<div class="card-body">
-<div class="card-title">Digital Tools</div>
-<div class="card-desc">Technology and representations in math teaching</div>
-</div>
-</a>
-
-<a class="card" href="./sessions/S4-Maths-Talk">
-<div class="card-icon">04</div>
-<div class="card-body">
-<div class="card-title">Maths Talk</div>
-<div class="card-desc">Classroom discourse and pedagogic constructs</div>
-</div>
-</a>
-
-<a class="card" href="./sessions/S5-Mathematical-Concepts">
-<div class="card-icon">05</div>
-<div class="card-body">
-<div class="card-title">Mathematical Concepts</div>
-<div class="card-desc">Concept development and understanding</div>
-</div>
-</a>
-
-<a class="card" href="./sessions/S6-Mathematical-Thinking">
-<div class="card-icon">06</div>
-<div class="card-body">
-<div class="card-title">Mathematical Thinking</div>
-<div class="card-desc">Fostering mathematical reasoning</div>
-</div>
-</a>
-
-<a class="card" href="./sessions/S7-Mastery-and-Variation">
-<div class="card-icon">07</div>
-<div class="card-body">
-<div class="card-title">Mastery & Variation</div>
-<div class="card-desc">Teaching with variation theory</div>
-</div>
-</a>
-
-<a class="card" href="./sessions/S8-Learner-Diversity">
-<div class="card-icon">08</div>
-<div class="card-body">
-<div class="card-title">Learner Diversity</div>
-<div class="card-desc">Equity and inclusion in math education</div>
-</div>
-</a>
-
-<a class="card" href="./sessions/S9-Teacher-Researcher-Designer">
-<div class="card-icon">09</div>
-<div class="card-body">
-<div class="card-title">Teacher Researcher Designer</div>
-<div class="card-desc">The teacher as reflective practitioner</div>
-</div>
-</a>
-
-</div>
-
----
 
 ## Cases
 
-<div class="card-grid">
-
-<a class="card card-case" href="./cases/C1-Swan-Card-Sort">
-<div class="card-body">
-<div class="card-title">C1 Swan Card Sort</div>
-<div class="card-desc">Classifying mathematical statements</div>
+<div class="section-card section-card-cases">
+<div class="section-header">
+<span class="section-icon">🔬</span>
+<span class="section-label">Classroom Cases</span>
 </div>
-</a>
-
-<a class="card card-case" href="./cases/C2-Comparing-Quantities-(RME)">
-<div class="card-body">
-<div class="card-title">C2 Comparing Quantities</div>
-<div class="card-desc">Realistic Mathematics Education approach</div>
+<ul class="nav-list nav-list-two-col">
+<li><a href="./cases/C1-Swan-Card-Sort"><strong>C1</strong> Swan Card Sort</a></li>
+<li><a href="./cases/C2-Comparing-Quantities-(RME)"><strong>C2</strong> Comparing Quantities (RME)</a></li>
+<li><a href="./cases/C3-Cola-Can-Optimisation"><strong>C3</strong> Cola Can Optimisation</a></li>
+<li><a href="./cases/C4-Tilted-Squares-(NRICH)"><strong>C4</strong> Tilted Squares (NRICH)</a></li>
+<li><a href="./cases/C5-Sequence-and-Expression"><strong>C5</strong> Sequence and Expression</a></li>
+<li><a href="./cases/C6-Exponentiation-Inquiry"><strong>C6</strong> Exponentiation Inquiry</a></li>
+<li><a href="./cases/C7-Grid-Algebra"><strong>C7</strong> Grid Algebra</a></li>
+<li><a href="./cases/C8-Class-Activities-(WODB-+-PhET)"><strong>C8</strong> WODB + PhET Activities</a></li>
+</ul>
 </div>
-</a>
-
-<a class="card card-case" href="./cases/C3-Cola-Can-Optimisation">
-<div class="card-body">
-<div class="card-title">C3 Cola Can Optimisation</div>
-<div class="card-desc">Mathematical modelling in context</div>
-</div>
-</a>
-
-<a class="card card-case" href="./cases/C4-Tilted-Squares-(NRICH)">
-<div class="card-body">
-<div class="card-title">C4 Tilted Squares</div>
-<div class="card-desc">NRICH investigation task</div>
-</div>
-</a>
-
-<a class="card card-case" href="./cases/C5-Sequence-and-Expression">
-<div class="card-body">
-<div class="card-title">C5 Sequence & Expression</div>
-<div class="card-desc">Pattern and algebraic thinking</div>
-</div>
-</a>
-
-<a class="card card-case" href="./cases/C6-Exponentiation-Inquiry">
-<div class="card-body">
-<div class="card-title">C6 Exponentiation Inquiry</div>
-<div class="card-desc">Exploring exponent rules through inquiry</div>
-</div>
-</a>
-
-<a class="card card-case" href="./cases/C7-Grid-Algebra">
-<div class="card-body">
-<div class="card-title">C7 Grid Algebra</div>
-<div class="card-desc">Digital tool for algebraic reasoning</div>
-</div>
-</a>
-
-<a class="card card-case" href="./cases/C8-Class-Activities-(WODB-+-PhET)">
-<div class="card-body">
-<div class="card-title">C8 WODB + PhET</div>
-<div class="card-desc">Which One Doesn't Belong & simulations</div>
-</div>
-</a>
-
-</div>
-
----
 
 ## Readings
 
-<div class="card-grid card-grid-compact">
-
-<a class="card card-reading" href="./readings/R01-Bruner">
-<div class="card-body"><div class="card-title">R01 Bruner</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R02-Task-Design-in-ME">
-<div class="card-body"><div class="card-title">R02 Task Design in ME</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R03-Designing-Using-Math-Tasks">
-<div class="card-body"><div class="card-title">R03 Designing Math Tasks</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R04-Rich-Math-Tasks">
-<div class="card-body"><div class="card-title">R04 Rich Math Tasks</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R05-RME2026">
-<div class="card-body"><div class="card-title">R05 RME</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R06-Teaching-with-Variation">
-<div class="card-body"><div class="card-title">R06 Teaching with Variation</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R07-Mindful-Classroom">
-<div class="card-body"><div class="card-title">R07 Mindful Classroom</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R08-Mathematical-Modelling-Handbook">
-<div class="card-body"><div class="card-title">R08 Mathematical Modelling</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R09-Maths-Talk-Student">
-<div class="card-body"><div class="card-title">R09 Maths Talk</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R10-Modelling-in-School-Math">
-<div class="card-body"><div class="card-title">R10 Modelling in School</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R11-Modelling-in-Classroom">
-<div class="card-body"><div class="card-title">R11 Modelling in Classroom</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R12-Kyouzai-Kenkyuu">
-<div class="card-body"><div class="card-title">R12 Kyouzai Kenkyuu</div></div>
-</a>
-
-<a class="card card-reading" href="./readings/R13-RME-Emergent-Modelling">
-<div class="card-body"><div class="card-title">R13 Emergent Modelling</div></div>
-</a>
-
+<div class="section-card section-card-readings">
+<div class="section-header">
+<span class="section-icon">📚</span>
+<span class="section-label">Reading Notes</span>
+</div>
+<ul class="nav-list nav-list-two-col">
+<li><a href="./readings/R01-Bruner"><strong>R01</strong> Bruner — Toward a Theory of Instruction</a></li>
+<li><a href="./readings/R02-Task-Design-in-ME"><strong>R02</strong> Task Design in Mathematics Education</a></li>
+<li><a href="./readings/R03-Designing-Using-Math-Tasks"><strong>R03</strong> Designing and Using Math Tasks</a></li>
+<li><a href="./readings/R04-Rich-Math-Tasks"><strong>R04</strong> Rich Mathematical Tasks</a></li>
+<li><a href="./readings/R05-RME2026"><strong>R05</strong> Realistic Mathematics Education</a></li>
+<li><a href="./readings/R06-Teaching-with-Variation"><strong>R06</strong> Teaching with Variation</a></li>
+<li><a href="./readings/R07-Mindful-Classroom"><strong>R07</strong> Mindful Classroom (Ritchhart)</a></li>
+<li><a href="./readings/R08-Mathematical-Modelling-Handbook"><strong>R08</strong> Mathematical Modelling Handbook</a></li>
+<li><a href="./readings/R09-Maths-Talk-Student"><strong>R09</strong> Maths Talk — Student Discourse</a></li>
+<li><a href="./readings/R10-Modelling-in-School-Math"><strong>R10</strong> Modelling in School Math</a></li>
+<li><a href="./readings/R11-Modelling-in-Classroom"><strong>R11</strong> Modelling in the Classroom</a></li>
+<li><a href="./readings/R12-Kyouzai-Kenkyuu"><strong>R12</strong> Kyouzai Kenkyuu</a></li>
+<li><a href="./readings/R13-RME-Emergent-Modelling"><strong>R13</strong> RME Emergent Modelling</a></li>
+</ul>
 </div>
