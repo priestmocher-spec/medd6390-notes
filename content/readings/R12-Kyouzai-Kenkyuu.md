@@ -1,7 +1,7 @@
 # 为什么细节很重要：向日本 Kyouzai Kenkyuu 学习
 
 **来源**: Why the details matter- Learning from Japanese Kyouzai Kenkyuu.pdf (7 页)
-**作者**: Tatsuhiko Seino, Colin Foster
+**作者**: Seino, T. & Foster, C. (2019). Why the details matter: Learning from Japanese Kyouzai Kenkyuu. *Mathematics in School*, 48(5), 2-8. Mathematical Association.
 **主题**: 日本数学教科书中任务设计的精细化思维
 
 ---
@@ -78,11 +78,21 @@ Seino 和 Foster 的核心论点是：在数学任务设计中，数字的选择
 
 **发现**: 不同教科书给出的 L 形尺寸不同，但共同点是：答案都是 18 平方厘米。
 
-**原因分析**: 不同的尺寸组合引导不同的解题方法（竖分、横分、大减小、重排、复制翻转等）。有些数字组合允许所有七种方法都能使用，有些只允许部分方法。这反映了教科书想让学生学会哪些方法的意图。
+**原因分析**: 不同的尺寸组合引导不同的解题方法。完整的七种方法为：
+1. **竖分法**: 竖直切割成两个长方形
+2. **横分法**: 水平切割成两个长方形
+3. **大减小法**: 补全为大长方形再减去缺角
+4. **重排法**: 切下一部分重新拼接为长方形
+5. **复制翻转法**: 复制翻转得到大长方形再除以 2
+6. **基本方块法**: 直接数格子
+7. **组合法**: 分成三个以上的小长方形
 
-例如 Tokyo Shoseki 和 Gakkou tosho 的数字选择允许所有七种方法。而 Keirinkan 和 Dainippon tosho 的数字使得"复制翻转"法难以操作。这不是疏忽，而是有意识的设计选择。
+有些数字组合允许所有七种方法都能使用，有些只允许部分方法。例如 Tokyo Shoseki 和 Gakkou tosho 的数字选择允许所有七种方法。而 Keirinkan 和 Dainippon tosho 的数字使得"复制翻转"法难以操作。这不是疏忽，而是有意识的设计选择。
 
 面积始终表示为"高 x 宽"的形式（而非"宽 x 高"），这种一致性方便了师生之间和学生之间关于不同方法的讨论。
+
+### 认知负荷的比较机制
+作者隐含地使用了一种认知负荷比较机制：对于同一主题，不同数字选择带来的认知负荷是不同的。教师可以通过自己用不同数字试做同一道题来体会这种差异。例如，13-9 中"10-9=1"的计算认知负荷低于 13-7 中"10-7=3"，因为前者用到了 10 的补数这一更自动化的知识。
 
 ## 4. 框架/模型的完整描述
 
@@ -110,3 +120,22 @@ Seino 和 Foster 的核心论点是：在数学任务设计中，数字的选择
 - **日本教科书的一致性值得学习**: 日本六家出版社在例题数字选择上的高度一致性表明，这些选择是经过深入研究的，而不是随意的。这背后的研究传统 (Kyouzai Kenkyuu) 值得其他国家借鉴。
 - **考虑数字如何影响认知负荷**: 同样的数学结构，不同的数字可能带来截然不同的认知负荷。教师在备课时应该自己用不同数字试做，体会难度差异。
 - **从"用什么数字"到"为什么用这个数字"**: 这种思维转变是 Kyouzai Kenkyuu 的精髓。它把教师从"出题者"提升为"教学设计研究者"。
+
+---
+
+## 交叉引用
+
+### Sessions
+- [[S2 Task Design]] — 数字选择是任务设计中最微观但最深刻的层面
+- [[S5 Mathematical Concepts]] — 数字选择如何影响概念理解（位值、分数运算结构）
+- [[S7 Mastery and Variation]] — 与 variation theory 有深层联系：通过精心变换数字来突出数学结构中的不变量
+- [[S9 Teacher Researcher Designer]] — Kyouzai Kenkyuu 本身就是教师作为研究者/设计者的实践
+
+### Readings
+- [[R02-Task-Design-in-ME|R02 Fujii: Task Design]] — Fujii 是本文第一作者 Seino 的同领域学者；R02 讲 Lesson Study 中的任务设计，R12 讲教材研究中的数字选择
+- [[R06-Teaching-with-Variation|R06 Variation]] — 变式理论的微观应用：什么变、什么不变，精确到每一个数字
+- [[R13-RME-Emergent-Modelling|R13 Emergent Modelling]] — 互补关系：R13 设计宏观的学习轨迹（模型序列），R12 在每一步中精选具体的数字参数
+
+### Cases
+- [[C2 Comparing Quantities (RME)|C2 Comparing Quantities]] — 数字选择在 RME 情境任务设计中同样关键
+- [[C5 Sequence and Expression]] — 数列任务中数字选择如何引导学生看到一般化结构

@@ -1,86 +1,111 @@
-# 数学建模：国际研究手册章节
+# 教育中的正念：整合断裂的研究传统
 
-**来源**: 9781118294895 pages 1106-1122.pdf (17 页)
-**主题**: 数学教育研究手册中关于数学建模的章节
+**来源**: 9781118294895 pages 1106-1122.pdf
+**作者**: Rolf Reber
+**主题**: 将 mindfulness 概念作为整合框架，统一教育心理学中多条看似无关的研究线索，并提出六种可归入 mindfulness 维度的教学干预
 
 ---
 
 ## 1. 核心论点与论证逻辑
 
-本章的核心论点是：数学建模是连接数学与现实世界的桥梁，是数学教育中不可或缺的组成部分，但其教学实践面临多重挑战。作者从国际视角论证了数学建模在课程中的地位，分析了不同的建模方法和教学框架，并讨论了评估数学建模能力的方法。
+Reber 的核心问题是：教育心理学中有大量关于 mindful learning 的研究，但研究者们各自为政，没有把成果放在 mindfulness 这个统一框架下来理解。这导致许多本质上相关的发现彼此孤立。本章的目标就是弥合这种断裂，用 mindfulness 概念把散落的研究整合起来。
 
-论证逻辑是：首先定义什么是数学建模以及它与"应用"的区别。然后介绍几种主要的建模理论框架。接着讨论建模任务的类型和真实性问题。最后分析建模教学和评估中的核心挑战。
+论证分三步走。第一步，从课堂中的 mindlessness 现象入手，展示学生在学校中如何变得机械化。比如经典的"船长年龄"问题：97 个一二年级学生中有 76 个会把题目里的数字做加法来"解答"一道根本无解的题。学生之所以这样做，不是因为愚笨，而是因为学校环境训练出了一种假设，即老师给的题目一定有且只有一个数字答案。Reber 借 Seligman (1992) 的概念将此称为 learned mindlessness：就像习得性无助一样，学生习得了一种不加思考就套用算法的倾向。
 
-作者强调一个关键区分：数学应用 (application) 是从数学内部出发，把数学工具应用到外部情境；数学建模 (modelling) 是从现实情境出发，选择和使用数学工具来理解和解决现实问题。两者的方向和起点不同。
+第二步，引入 cognitive load theory 作为看似与 mindfulness 矛盾的理论。Cognitive load theory 的核心主张是减少外在认知负荷有利于学习，而 mindfulness 干预（如引入歧义、多视角）恰恰会增加认知负荷。Reber 的调和方案是：关键不在于认知负荷的高低，而在于负荷的性质。如果复杂性和歧义性促使学习者进行 mindful 的信息加工，那么由此产生的认知负荷不会损害学习，反而促进学习。这对应了 Sweller 等人 (1998) 对 extraneous cognitive load（与学习无关的负荷，有害）和 germane cognitive load（帮助整合材料的负荷，有益）的区分。
+
+第三步，系统梳理六种教学干预，论证它们虽然来自不同研究传统，但都可以归入 mindfulness 的维度框架。这是本章最有操作价值的部分。
 
 ## 2. 关键概念定义与解释
 
-### 数学建模 (Mathematical Modelling)
-将现实世界的问题翻译成数学语言，用数学方法分析和解决，然后把结果翻译回现实世界并进行验证的过程。建模不是一次性的动作，而是一个反复循环的过程。
+### Mindfulness 的五个特质 (Langer, 1989; 1997)
 
-### 建模循环 (Modelling Cycle)
-建模过程可以描述为一个循环，主要包括以下阶段：
-1. **理解问题 (Understanding)**: 理解现实情境中的问题
-2. **简化/结构化 (Simplifying/Structuring)**: 做出假设，简化问题，建立现实模型
-3. **数学化 (Mathematising)**: 将现实模型转化为数学模型
-4. **数学处理 (Working mathematically)**: 在数学模型内部求解
-5. **解释 (Interpreting)**: 将数学结果翻译回现实情境
-6. **验证 (Validating)**: 检验结果在现实中是否合理
-7. **呈现/沟通 (Presenting)**: 交流建模过程和结果
+Langer 对 mindfulness 的定义包含五个核心特质：(1) creation of new categories，创建新的分类；(2) openness to new information，对新信息保持开放；(3) awareness that there is more than one perspective，意识到存在多种视角；(4) alertness to distinctions，对差异保持警觉；(5) orientation in the present，关注当下。这个定义强调的是主动的认知活动（创建分类、识别差异），不同于将 mindfulness 等同于冥想或内观的被动式定义 (Bishop et al., 2004)。
 
-不同学者对循环的描述细节有差异，但基本结构相似。
+### Situational mindfulness vs. Dispositional mindfulness
 
-### 建模能力 (Modelling Competencies)
-指成功完成建模过程所需的各种能力。根据能力观 (competency-based approach)，建模能力包括：
-- 简化和做假设的能力
-- 在数学与现实之间转化的能力
-- 选择和使用合适的数学工具的能力
-- 解释和验证结果的能力
-- 反思和改进模型的能力
-- 沟通建模过程的能力
+这是 Reber 提出的一个关键区分。Situational mindfulness 是通过教学安排和任务设计在当下时刻激发的正念状态。教师可以通过调整指令和作业设计来促进这种短暂的正念。Dispositional mindfulness 是作为长期倾向或人格特质培养的正念倾向。如果培养成功，学生即使面对常规或无聊的任务也会带着正念心态去处理。两者的区别在于：前者依赖外部情境设计，后者内化为学生的思维习惯。
 
-### 建模与应用的区别
-- **应用 (Application)**: 已知数学工具，找情境来使用。数学在先，情境在后。教学目的是巩固数学知识。
-- **建模 (Modelling)**: 已知情境，找数学工具来理解。情境在先，数学在后。教学目的是发展问题解决能力。
-- 两者互补，但在教学设计中应有意识地区分。
+### Learned mindlessness
 
-### 真实性 (Authenticity)
-指建模任务与现实生活的吻合程度。真实性包含多个维度：
-- 问题本身的真实性（是否是真正的现实问题）
-- 数据的真实性（是否使用真实数据）
-- 解决方法的真实性（是否允许使用真实世界中的方法）
-- 情境的真实性（学生是否真正关心这个问题）
+类比 Seligman (1992) 的 learned helplessness 概念。学生从学校环境中习得一种机械套用算法的倾向：不质疑题目的可解性，不从现实生活视角审视问题，而是直接用课堂上学过的程序来处理。Dewey (1956) 就已指出过这种学校数学与日常生活脱节的问题。
+
+### Conditional instruction
+
+将绝对性表述改为条件性表述的教学策略。把"A 是 X"改为"A 可以是 X"。Langer 和 Piper (1987) 的研究表明，这种简单改变能提升学习效果和信息的创造性使用。Anglin, Pirson 和 Langer (2008) 的研究进一步发现，条件性表述在数学教学中能消除性别差异。
+
+### Productive failure (Kapur & Bielaczyc, 2012)
+
+学生先面对定义不清的问题并在尝试中"失败"，然后再接受直接教学。在后测中，经历过 productive failure 的学生在结构化和复杂问题上的表现优于直接接受教学的对照组。这与 Brecht 的观点一致：有价值的轻松是对困难的胜利，教师的任务是收集困难并让它们变得容易。关键点在于，invention activities 只在先于直接教学时才有效，而非替代直接教学。
+
+### Alienation effect (Verfremdungseffekt)
+
+源自 Shklovskij (2004) 和 Brecht (1964) 的戏剧理论。核心思想是打断自动化的认知过程，迫使观众（或学习者）以新的方式思考。在教育中，当常规的表征方式被打破时，学习者不得不进行多种形式的 mindful elaboration。这与 Dewey (1910) 的观点呼应：反思性思维的起点就是困难。
+
+### Extraneous vs. Germane cognitive load
+
+Sweller 等人 (1998) 提出的区分。Extraneous cognitive load 是与学习目标无关的认知负荷，会损害学习（如无关的趣味细节）。Germane cognitive load 是帮助学习者整合材料的认知负荷，促进学习。不过 Reber 指出，de Jong (2010) 认为这一区分在概念和实证上都存在问题，更有用的思路是区分认知负荷何时有害、何时有益。
 
 ## 3. 具体例子与案例
 
-### "飞机周转"任务 (Airplane Turn-round)
-一个经典的建模任务：一架飞机降落后需要完成一系列操作才能再次起飞。学生需要分析每项操作需要的时间、哪些可以并行、如何优化整个过程。这个任务涉及的数学很简单（加法），但策略思维（优化、并行处理）很复杂。
+**"船长年龄"问题**：问一二年级学生"船上有 26 只羊和 10 只山羊，船长多大？"76/97 的学生给出了数字答案。在类似任务"羊群有 125 只羊和 5 条狗，牧羊人多大？"中，一个学生的推理过程是："125 + 5 = 130，太大了；125 - 5 = 120，还是太大；125/5 = 25，可以。我觉得牧羊人 25 岁。"学生不是不会思考，而是在不质疑题目可解性的前提下，用了相当精巧的推理来编造答案。
 
-### "猫和小猫" (Cats and Kittens)
-另一个经典任务：一只母猫 18 个月内可以产生 2000 只后代。学生需要建模来验证这个数字是否合理。这涉及指数增长的概念，但更重要的是学生需要做合理的假设（每窝几只、多久一窝、小猫何时开始繁殖等）。
+**木板切割问题**：Verschaffel, De Corte 和 Lasure (1994) 发现，五年级学生中大多数能正确解答"Steve 买了 5 块 2 米长的木板，能锯出多少块 1 米的？"但当题目变成"Steve 买了 4 块 2.5 米长的木板，能锯出多少块 1 米的？"时，75 人中只有 10 人给出了正确答案。学校有效的策略（直接用算法）在面对现实约束时失效了。
+
+**代数教师的正念课堂**：Ritchhart 和 Perkins (2000) 的案例研究描述了一位代数教师如何培育 mindfulness：将数学作为一种可建构的现实来介绍，先展示一个错误解法再讨论它，以 mindful 的方式探索数学并揭示 mindlessness 的陷阱。条件性教学（引入两种算法而非一种）使学生表现出更高的准确性、更大的创造力，以及更少的 mindless 误用。
+
+**Borke (1975) 的透视实验**：三岁儿童在三山实验中通常表现很差。但当任务中使用了 Sesame Street 中的熟悉角色 Grover 而非陌生的警察玩偶时，能展示 perspective taking 的儿童从 40% 上升到 80%。这说明 mindful learning 在材料熟悉且认知负荷低时也能获益。
+
+**确认偏差与 example choice**：Reber 等人 (2009) 让学生学习确认偏差。允许选择自己感兴趣的例子的学生，比被分配例子的学生表现出更高的学习兴趣。而第二组获得的是第一组选择的相同例子，所以差异不能用例子质量解释，而是选择行为本身增加了 mindfulness。
 
 ## 4. 框架/模型的完整描述
 
-### 建模能力框架 (Competency-based Framework)
+### Table 54.1：六种干预与 mindfulness 维度的映射
 
-建模能力可以从两个角度来描述：
+Reber 构建了一个将六种教学干预映射到 Langer 五个 mindfulness 维度的框架（原文 Table 54.1）。五个维度缩写为：Distinction（对差异的警觉）、New categories（创建新分类）、Openness（对新信息的开放）、Perspectives（多视角意识）、Present（当下关注）。
 
-**子能力视角 (Sub-competency view)**: 将建模能力分解为循环中每个阶段所需的具体技能。评估时分别考察每个子能力。
+| 干预 | 对应的 mindfulness 维度 |
+|---|---|
+| Variability of learning materials（学习材料的变异性） | Distinction; Perspectives |
+| Problem-based learning（基于问题的学习） | New categories; Openness; Perspectives |
+| Thinking difficulties（制造思维困难） | All（全部五个维度） |
+| Relevance intervention（关联性干预） | Openness; Perspectives; Present |
+| Example choice（例子选择） | Openness; Perspectives; Present |
+| Personalization（个性化） | Perspectives; Present |
 
-**整体性视角 (Holistic view)**: 将建模能力看作一个整体，强调各个阶段之间的协调和元认知（知道何时该做什么）。
+几个要点值得注意。Thinking difficulties（包括 productive failure、alienation effect、引入矛盾等）是唯一覆盖全部五个 mindfulness 维度的干预类型。这解释了为什么 making thinking difficult 虽然违反直觉，却能产生强大的学习效果。Relevance intervention 分为两种：external relevance intervention（教师提供与生活的关联）更有利于本身兴趣较高的学生；internal relevance intervention（学生自己写出关联）更有利于学业表现较差的学生 (Hulleman & Harackiewicz, 2009)。Personalization（在学习材料中嵌入学生的名字、兴趣等个人信息）通过 orientation in the present 激发 mindfulness，因为学生看到自己的信息时会从个人视角审视材料。
 
-两种视角各有适用场景。教学中通常需要先通过子能力的训练来发展基础，然后通过完整的建模项目来发展整体能力。
+### Mindfulness 与 cognitive load theory 的整合模型
 
-### 建模任务类型
-根据任务的复杂度和开放度，可以分为：
-- **词语问题 (Word problems)**: 最简单，有唯一正确答案，数学化过程直接
-- **建模活动 (Modelling activities)**: 需要做假设和选择，有多种合理的解法
-- **建模项目 (Modelling projects)**: 复杂的、开放的、需要较长时间的项目
+Reber 的调和方案可以提炼为一条原则：cognitive load theory 为 mindfulness theory 提供了限制条件（limiting conditions）。当干预产生的认知负荷超出学习者的认知资源时，mindful learning 不会改善学习（如过多新奇性或不相关细节）。反过来，mindfulness theory 为 cognitive load theory 提供了解释底层倾向的视角：对新信息的开放或对多视角的意识，解释了为什么有时更高的认知负荷反而产生更好的学习效果。两个理论互相补充而非对立。
 
 ## 5. 对数学教学设计的具体启示
 
-- **从简单但真实的建模任务开始**: 不需要一开始就做大型建模项目。简短的、有趣的任务（如"飞机周转"）能让学生体会建模的本质。
-- **重视"做假设"的能力**: 传统数学教学中所有条件都已给出，学生不需要做假设。建模教学必须训练学生自己判断哪些因素重要、哪些可以忽略。
-- **建模循环不是线性的**: 在教学中要让学生看到，建模过程经常需要回到前面的步骤。验证结果不合理时，需要修改假设或数学模型。
-- **区分建模和应用的教学目的**: 如果目的是让学生练习特定的数学技能，用应用题。如果目的是发展建模思维和问题解决能力，用开放的建模任务。
-- **评估建模不能只看答案**: 建模能力的评估应该关注整个过程，包括假设的合理性、数学化的质量、解释的深度和验证的充分性。
+**Conditional instruction 在数学教学中的直接应用**：数学教科书充斥着绝对性表述。将"梯形的面积是(a+b)h/2"改为"梯形的面积可以用(a+b)h/2 来计算"，这种微小的语言调整就能促进 mindfulness。Anglin 等人 (2008) 的研究直接证明了条件性表述在数学教学中消除性别差异的效果。
+
+**Solution method variability 的价值**：Rittle-Johnson 和 Star (2009) 的方程求解研究表明，展示同一问题的两种不同解法（而非只展示一种）能同时提升概念理解和程序灵活性。这不仅是 variation theory 的应用，从 mindfulness 视角看，多种解法迫使学生意识到不同视角的存在，对差异保持警觉。
+
+**Productive failure 的教学序列设计**：Kapur 和 Bielaczyc (2012) 的研究启示是，先让学生面对挑战性问题并允许"失败"，然后再提供直接教学。但序列至关重要：invention activities 必须先于直接教学才有效。Schwartz 和 Bransford (1998) 的研究也支持这一点。对数学课堂来说，这意味着一个新概念的教学可以从一个需要该概念但学生尚未掌握的问题开始，让学生在挣扎中意识到需要什么，然后再教授正式方法。
+
+**警惕 seductive details 的陷阱**：在数学课堂中添加有趣但与核心概念无关的细节（如用流行文化包装的应用题）可能增加即时兴趣但损害学习。Reber 引用 Garner 等人 (1989) 和 Harp 与 Mayer (1997, 1998) 的研究指出，这类 seductive details 增加的是无关的认知负荷，导致 mindless amusement 而非 mindful learning。关联性设计的正确方式是让数学内容与学生的真实生活产生实质联系（relevance intervention），而非表面装饰。
+
+**从 learned mindlessness 反思数学教学常规**：学生在数学课上的许多"错误"其实是 learned mindlessness 的表现。当学生对一道不可能的应用题给出数字答案时，问题不在学生，而在教学环境长期培养了"所有题目都有唯一正确数字答案"的假设。设计 open-ended tasks 和 modelling tasks 是打破这种 mindlessness 的途径。
+
+---
+
+## 交叉引用
+
+### Sessions
+- [[S4 Maths Talk]] -- conditional instruction（条件性表述）与课堂话语设计直接相关：教师如何措辞会塑造学生是 mindful 还是 mindless 地参与数学讨论
+- [[S6 Mathematical Thinking]] -- productive failure 和 thinking difficulties 与培养 mathematical thinking 的机制高度吻合：思维的起点是困难，而非流畅
+- [[S8 Learner Diversity]] -- mindfulness 框架解释了为什么差异化不等于简化任务
+- [[S9 Teacher Researcher Designer]] -- productive failure 和 conditional instruction 是教师可用的设计工具
+
+### Readings
+- [[R07-Mindful-Classroom|R07 Ritchhart]] -- Ritchhart 和 Perkins (2000) 是本章多次引用的核心参考，R07 提供了 mindful classroom 的实践框架，R08 提供了理论整合和实证基础
+- [[R04-Rich-Math-Tasks|R04 Boaler]] -- rich tasks 的设计原则与 Reber 的 thinking difficulties 和 problem-based learning 两种干预直接对应：好的数学任务应该制造有益的困难
+- [[R06-Teaching-with-Variation|R06 Variation]] -- variability of learning materials 是 Reber 六种干预之一，variation theory 为此提供了系统的理论框架
+
+### Cases
+- [[C8 Class Activities (WODB + PhET)|C8 Class Activities]] -- WODB 活动天然包含 distinction（对差异的警觉）和 perspectives（多视角），是 situational mindfulness 的具体课堂工具
+- [[C1 Swan Card Sort]] -- card sort 中的分类和排序活动直接对应 creation of new categories 和 alertness to distinctions 两个 mindfulness 维度

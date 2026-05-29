@@ -1,8 +1,8 @@
 # 课堂中的数学建模
 
 **来源**: modellingin the classroom.pdf (10 页)
-**作者**: Jonas Hall, Thomas Lingefjard
-**主题**: Chapter 9 — 在课堂中实施数学建模教学的实践指南 (配合 GeoGebra)
+**作者**: Hall, J. & Lingefjard, T. (2017). Chapter 9: Modelling in the Classroom. In *Mathematical Modeling: Applications with GeoGebra*. Hoboken: Wiley.
+**主题**: 在课堂中实施数学建模教学的实践指南 (配合 GeoGebra)
 
 ---
 
@@ -33,11 +33,19 @@
 7. **学生构建模型** — 学生独立创建数学模型
 8. **更广泛的任务** — 更长期、更复杂的建模项目
 
+### "最低自信学生操作电脑" 策略
+小组合作使用 GeoGebra 时，作者建议让对技术最不自信的学生来操作电脑。理由是：操作者必须跟随组内讨论的指令，不能独自冲在前面。这确保了小组讨论先于技术操作，同时帮助低自信学生在操作中建立信心。
+
+### 六类可接受的求解方法
+"咨询公司"项目要求学生用"至少三种不同方法"求解，但不是任意方法都被接受。Hall 和 Lingefjard 列出了六类方法：代数方法、数值方法、图示方法、模拟/物理模型、统计方法、计算机方法。学生必须从不同类别中选择方法，不能三种方法都来自同一类别。
+
 ### 建模能力的评估维度
 评估不应只看问题解决能力。还需要考虑：
 - 沟通能力（是否能清晰地书写数学报告）
 - 展示能力（是否能有效地口头呈现）
 - 合作能力（在小组中的参与程度）
+
+评估应该是渐进式的：初期只评估问题解决和沟通，后期逐步加入展示和合作维度。这与建模教学的渐进实施框架一致。
 
 ## 3. 具体例子与案例
 
@@ -89,3 +97,23 @@
 - **小组展示用录屏代替现场演示**: 让学生录制 30-60 秒的录屏来解释他们的建模过程。既节省课堂时间，又培养沟通能力。
 - **渐进式引入比一步到位更现实**: 不需要一开始就做大型建模项目。从教师演示开始，逐步增加学生的自主性和任务的复杂度。
 - **评估标准需要提前明确**: 在布置建模任务时，学生需要知道评估标准是什么。只评估问题解决能力，还是也评估沟通和展示能力？
+
+---
+
+## 交叉引用
+
+### Sessions
+- [[S3 Digital Tools]] — 全章围绕 GeoGebra 的课堂使用，是 S3 的核心实践案例
+- [[S4 Maths Talk]] — 小组展示、录屏讲解、口头报告涉及数学语言沟通
+- [[S8 Learner Diversity]] — "最低自信学生操作电脑"是具体的差异化策略
+- [[S9 Teacher Researcher Designer]] — 教师先自己成为建模学习者的渐进路径
+
+### Readings
+- [[R08-Mathematical-Modelling-Handbook|R08 Reber]] — R08 的 mindfulness 视角可用于反思建模教学中学生的认知状态：被动执行步骤 vs 主动思考建模选择
+- [[R10-Modelling-in-School-Math|R10 Burkhardt]] — R10 的系统变革视角 + R11 的个体教师发展路径互补
+- [[R13-RME-Emergent-Modelling|R13 Emergent Modelling]] — 注意区分：R11 的"建模"是应用建模（学生学会建模），R13 的"建模"是教学设计中模型作为认知工具
+
+### Cases
+- [[C3 Cola Can Optimisation]] — 咨询公司项目与 C3 都是"多方法解决同一优化问题"
+- [[C7 Grid Algebra]] — 都涉及数字工具改变数学学习的性质
+- [[C8 Class Activities (WODB + PhET)|C8 Class Activities]] — PhET 与 GeoGebra 类似，都是互动式数字工具

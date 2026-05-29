@@ -16,6 +16,10 @@
 
 这三者不是绝对界限，而是连续谱。同一个任务对不同学生可能处于不同位置：对已经掌握方法的学生是 exercise，对从未见过的学生是 problem。
 
+### Askew 的学术背景
+
+Mike Askew 曾在 King's College London 和 Monash University (Melbourne) 担任教授职位，也在北美和南非从事教学与研究。他的核心信念是：给学生 rich, engaging and challenging problems to reason about，每个人都可以像数学家一样行动、发展为数学思考者。除 Transforming Primary Mathematics 系列外，他还与 Rob Eastaway 合著了 Maths for Mums and Dads (2010)，并出版了 Mathematics: All That Matters。
+
 ### Task 和 Activity 的区别
 
 重申 Askew (2016) 的区分：task 是教师给出的，activity 是学生实际参与的数学行为。好的任务需要在 task 和 activity 之间留出 gap，让学生有空间发展自己的策略和理解。
@@ -130,11 +134,32 @@ Design -> Implement -> Observe -> Reflect -> Redesign。任务设计不是一次
 - Foster, C.：mathematical etudes, intelligent practice
 - Cockroft (1982)：Cockroft Report 对数学教学活动类型的建议
 
+---
+
 ## 交叉引用
 
-- [[S1 Introduction]]：Askew 的 TTTT 框架、Swan 的任务类型和 Boaler 的 rich tasks 在本讲深入展开
-- [[S3 Digital Tools]]：数字工具如何改变任务设计的可能性（如 GeoGebra 中的动态几何任务）
-- [[S4 Maths Talk]]：任务设计与课堂话语密切相关，高认知需求任务需要 exploratory talk 的支持
-- [[S5 Mathematical Concepts]]：Skemp 的 instrumental/relational understanding 和 concept image/concept definition 影响任务的认知目标设定
-- [[S6 Mathematical Thinking]]：任务设计的目标之一是促进 mathematical thinking（conjecturing, generalising, proving）
-- [[S7 Mastery and Variation]]：Variation theory 是 task design 的核心理论工具，同时是 mastery 教学的支柱
+### Sessions
+- [[S1 Introduction]] — Askew 的 TTTT 框架、Swan 的任务类型和 Boaler 的 rich tasks 在本讲深入展开
+- [[S3 Digital Tools]] — 数字工具如何改变任务设计的可能性（如 GeoGebra 中的动态几何任务）
+- [[S4 Maths Talk]] — 任务设计与课堂话语密切相关，高认知需求任务需要 exploratory talk 的支持
+- [[S5 Mathematical Concepts]] — Skemp 的 instrumental/relational understanding 和 concept image/concept definition 影响任务的认知目标设定
+- [[S6 Mathematical Thinking]] — 任务设计的目标之一是促进 mathematical thinking（conjecturing, generalising, proving）
+- [[S7 Mastery and Variation]] — Variation theory 是 task design 的核心理论工具，同时是 mastery 教学的支柱
+
+### Readings
+- [[R01-Bruner|R01 Bruner]] — Bruner 的 EIS 表征框架在本讲的任务表征选择中被引用
+- [[R02-Task-Design-in-ME|R02 Fujii]] — ICMI Study 22 是本讲的理论框架来源，定义了 task design 在数学教育研究中的核心地位
+- [[R03-Designing-Using-Math-Tasks|R03 Mason]] — Smith & Stein 的 Mathematical Tasks Framework 和认知需求四层次是本讲的核心分析工具
+- [[R04-Rich-Math-Tasks|R04 Boaler]] — Boaler (2016) 的 rich tasks 设计问题和 LFHC 概念在本讲中展开
+- [[R05-RME2026|R05 RME]] — RME 的 horizontal/vertical mathematizing 与 foundational inquiries 的理论基础相通
+- [[R06-Teaching-with-Variation|R06 Variation]] — Variation theory 是本讲 task design 的核心理论工具之一
+- [[R07-Mindful-Classroom|R07 Ritchhart]] — Askew 关于 mindful vs fluent mathematical activity 的讨论直接影响任务设计的目标设定
+- [[R09-Maths-Talk-Student|R09 Johnston-Wilder & Mason]] — MGA 螺旋和 scaffolding-and-fading 与本讲的任务实施策略相关
+- [[R12-Kyouzai-Kenkyuu|R12 Kyouzai Kenkyuu]] — 日本的教材研究传统与 ICMI Study 22 讨论的 task design 迭代过程相呼应
+- [[R13-RME-Emergent-Modelling|R13 Emergent Modelling]] — emergent modelling 的 model of to model for 提供了任务序列设计的宏观逻辑
+
+### Cases
+- [[C1 Swan Card Sort]] — Swan 的 classifying 和 interpreting multiple representations 任务类型在本讲中深入讨论
+- [[C4 Tilted Squares (NRICH)|C4 Tilted Squares]] — NRICH 的 tilted squares 是 LFHC 任务的典型案例，体现 Watson & Mason 的 generalising 策略
+- [[C5 Sequence and Expression]] — Foster 的 intelligent practice 在本讲中作为 procedural fluency 任务设计的范例
+- [[C6 Exponentiation Inquiry]] — 数学探究任务体现了 Smith & Stein 的 "doing mathematics" 认知层次

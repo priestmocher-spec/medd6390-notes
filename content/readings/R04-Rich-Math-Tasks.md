@@ -1,7 +1,8 @@
 # 丰富数学任务 (Rich Mathematical Tasks)
 
 **来源**: rich math tasksch5.pdf (35 页)
-**主题**: 第五章 — 什么是丰富数学任务及其在课堂中的实施
+**作者**: Boaler, Jo (2016). Chapter 5: Rich Mathematical Tasks. In *Mathematical Mindsets: Unleashing Students' Potential through Creative Math, Inspiring Messages and Innovative Teaching*. San Francisco: Jossey-Bass/Wiley. pp.57-91.
+**主题**: 成长型思维视角下的丰富数学任务设计与课堂实施
 
 ---
 
@@ -9,11 +10,23 @@
 
 本章的核心论点是：丰富数学任务是实现深层数学学习的关键工具。作者认为，传统的数学教学过于依赖封闭性的练习和算法操练，这种方式无法培养学生的数学理解和问题解决能力。丰富任务则能够同时发展学生的概念理解、程序流畅性和策略思维。
 
-论证逻辑是：首先定义了什么是"丰富"的数学任务，然后通过具体例子展示这些任务如何在课堂中运作，接着讨论了教师如何选择、改编和实施这些任务，最后论述了如何用这些任务来支持形成性评估。
+论证逻辑是：首先通过 5C's 框架定义数学投入的本质，然后通过六个教学案例展示"数学兴奋"的样貌，接着提出教师作为任务设计者的理念，提供六个改编问题来指导任务设计，最后论述了这些任务如何支持形成性评估。
 
-作者特别论证了"低门槛高天花板"(low threshold high ceiling) 任务的价值：这种任务让所有学生都能参与（低门槛），同时为有能力的学生提供深入探索的空间（高天花板）。这解决了数学课堂中普遍存在的分层教学困境。
+Boaler 特别论证了"低门槛高天花板"(low threshold high ceiling) 任务的价值：这种任务让所有学生都能参与（低门槛），同时为有能力的学生提供深入探索的空间（高天花板）。这解决了数学课堂中普遍存在的分层教学困境。
+
+本章来自 *Mathematical Mindsets* 一书，贯穿全文的一个核心视角是：开放性任务传递的隐含信息是"所有学生都能做数学"。任务设计不仅影响认知发展，也塑造学生对自己数学能力的信念。
 
 ## 2. 关键概念定义与解释
+
+### 5C's of Mathematics Engagement
+Boaler 开篇提出数学投入的五个核心要素：
+- **Curiosity（好奇心）**: 任务应激发学生的好奇心，让他们想要知道"为什么"和"如果……会怎样"
+- **Connection Making（建立联系）**: 任务应帮助学生看到数学概念之间以及数学与现实世界之间的联系
+- **Challenge（挑战）**: 适度的认知挑战（productive struggle）是深层学习的条件
+- **Creativity（创造性）**: 学生需要机会用创造性的方式思考数学
+- **Collaboration（合作）**: 数学学习是社会性的，讨论和合作能深化理解
+
+Boaler 指出，真正的数学兴奋"在挣扎的 11 岁学生身上和顶尖大学的高才生身上看起来完全一样"（p.57）。
 
 ### 丰富数学任务的特征
 一个数学任务被认为是"丰富的"，需要满足以下条件：
@@ -40,10 +53,35 @@
 5. **评价 (Evaluating)**: 判断数学推理和解答的质量
 6. **创造 (Creating)**: 设计新的数学对象或问题
 
+### 教师作为设计者 (Teacher as Designer)
+Boaler 强调教师应把自己定位为任务的设计者和改编者，而非仅仅是教材的执行者。教师需要发展"设计者心态"（designer mindset），把普通的教科书练习改编为丰富任务。这种身份转变是本章的实践核心。
+
+### 六个任务设计问题 (Six Questions for Task Design)
+Boaler 提出教师改编任务时应问的六个问题（pp.77-88）：
+1. **能否开放任务以鼓励多种方法、路径和表征？** — 把封闭问题变为开放问题
+2. **能否让它成为探究任务？** — 从"求解"变为"调查"
+3. **能否先提出问题再教方法？** — 先探索后教方法（参见 Case 3 Schwartz & Bransford 研究）
+4. **能否加入视觉成分？** — 让学生用视觉方式思考数学
+5. **能否让它低门槛高天花板？** — 所有学生都能参与且有延伸空间
+6. **能否加入论证和推理的要求？** — 要求学生说明"为什么"
+
 ### 形成性评估任务
 指那些设计目的不是给分，而是了解学生思维状态并据此调整教学的任务。好的形成性评估任务应该能够暴露学生的思维过程和误解。
 
 ## 3. 具体例子与案例
+
+### 六个"数学兴奋"案例 (Cases of Mathematics Excitement)
+Boaler 用近 20 页（pp.58-76）详细描述了六个教学案例：
+
+**Case 1: Seeing the Openness of Numbers** — Udacity 团队展示 18x5 的多种视觉解法。不同人用不同方式"看到"乘法，证明数学思维的多样性。
+
+**Case 2: Growing Shapes** — 立方体生长模式中的视觉代数。学生通过观察立方体堆叠的增长，发现代数表达式。Boaler 强调"当我们不要求学生视觉化地思考增长时，他们无法获得对函数增长的重要理解"（p.65）。
+
+**Case 3: A Time to Tell?** — 引用 Schwartz & Bransford (1998) 的研究，发现最佳的教方法时机是"学生已经先探索了问题之后"。这支持了"先探索后教方法"的设计原则。
+
+**Case 4: The Volume of a Lemon** — 用柠檬引入积分/体积概念。学生需要找到测量不规则物体体积的方法，这种从实物出发的任务让抽象概念变得可及。
+
+**Case 5 & 6**: 进一步展示了开放性任务如何在不同年级和不同主题中激发数学兴奋。
 
 ### 数字卡分类任务
 给学生一组数字卡（如 1/2、0.5、50%、3/6），让他们用不同方式分组。这是一个低门槛高天花板的任务：最简单的层次是找出相等的数，更深的层次是按数学属性分类，最深的层次是讨论分类标准本身。
@@ -100,3 +138,27 @@
 - **给学生足够的探索时间**: 丰富任务需要时间。教师要抵抗"赶课"的压力，给学生足够的时间来尝试、犯错、讨论和发现。
 - **使用"永远/有时/从不"格式**: 这是一种极其灵活的任务格式，可以应用于几乎所有数学话题，且天然地促进推理和论证。
 - **将评估嵌入日常任务**: 丰富任务本身就是优秀的形成性评估工具。教师通过观察学生在这些任务中的表现，能够了解学生的理解深度和误解模式，据此调整教学。
+
+---
+
+## 交叉引用
+
+### Sessions
+- [[S1 Introduction]] — Boaler 的 rich tasks 和 Swan 的任务类型在 S1 首次引出
+- [[S2 Task Design]] — LTHC 原则和 TTM 方法在 S2 系统展开；六个设计问题是 S2 的实操工具
+- [[S5 Mathematical Concepts]] — Growing Shapes 案例中视觉表征到代数表达式的过程，体现 concept image 到 concept definition 的转化
+- [[S6 Mathematical Thinking]] — 5C's 框架和六个设计问题指向数学思维的培养目标
+- [[S7 Mastery and Variation]] — "先探索后教方法"(Case 3) 与 mastery 教学中 exploration before exposition 一致
+- [[S8 Learner Diversity]] — LTHC 直接回应差异化教学：一个任务服务所有学生
+
+### Readings
+- [[R02-Task-Design-in-ME|R02 Fujii]] — R02 的 Lesson Study 中教师反复改编任务的过程，与 Boaler 的"教师作为设计者"理念一致
+- [[R03-Designing-Using-Math-Tasks|R03 Mason]] — R03 的任务改编策略（inner/outer task）可直接用于将普通任务升级为 rich task
+- [[R09-Maths-Talk-Student|R09 Johnston-Wilder & Mason]] — "Always/Sometimes/Never" 任务天然地促进 exploratory talk 和 Say What You See 策略
+
+### Cases
+- [[C1 Swan Card Sort]] — 分类任务是六种数学活动类型中"分类 (Classifying)"的典范
+- [[C3 Cola Can Optimisation]] — 柠檬体积任务与 Cola Can 建模思路类似：从实物出发引入数学方法
+- [[C4 Tilted Squares (NRICH)|C4 Tilted Squares]] — NRICH 的 LTHC 设计：从数格子到证明，门槛低天花板高
+- [[C5 Sequence and Expression]] — Growing Shapes 案例就是 sequence → expression 的具体教学实现
+- [[C8 Class Activities (WODB + PhET)|C8 Class Activities]] — WODB 是"分析 (Analysing)"活动的代表

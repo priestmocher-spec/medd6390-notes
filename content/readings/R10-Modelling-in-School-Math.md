@@ -1,7 +1,7 @@
 # 学校数学中的建模：过去的成就与当前的挑战
 
 **来源**: modelling in school math.pdf (21 页)
-**作者**: Hugh Burkhardt (Shell Centre, University of Nottingham)
+**作者**: Burkhardt, H. (2021). Modelling in School Mathematics: Past Achievements and Current Challenges. In F. K. S. Leung, G. A. Stillman, G. Kaiser, & K. L. Wong (Eds.), *Mathematical Modelling Education in East and West*, Chapter 29, pp.341-361. Cham: Springer.
 **主题**: 55 年建模教学实践中的设计策略、战术和经验教训
 
 ---
@@ -48,6 +48,18 @@ Burkhardt 区分了两种根本不同的教学目的：
 - **专家任务 (Expert tasks)**: 四个维度都有挑战，自然呈现
 - **学徒任务 (Apprentice tasks)**: 加了脚手架的专家任务，降低复杂度和自主性
 - **新手任务 (Novice tasks)**: 主要是技术需求，可以"按等级"完成
+
+### 任务真实性的 A-E 分类
+Burkhardt 对建模任务的真实性进行了分级：
+- **A 级（完全真实）**: 真实情境、开放问题、学生自选方法
+- **B 级**: 简化的真实情境
+- **C 级**: 提供了部分结构的真实问题
+- **D 级**: 高度脚手架化的建模任务
+- **E 级（伪真实）**: 表面有情境但本质是纯数学练习（"穿了情境外衣的裸数问题"）
+大多数教科书中的"应用题"属于 D-E 级。真正的建模教学应该让学生接触 A-C 级任务。
+
+### 样例学生作品策略 (Sample Student Work)
+FAL 课型中一个关键的教学技术：教师给学生展示虚构的"样例学生作品"（有意设计的、包含典型错误或不完整推理的解答），让学生分析、评价和改进。这种策略比直接讨论学生自己的作品更安全，因为它避免了暴露个人的错误，同时仍然能够引发深层的数学讨论。
 
 ### WYTIWYG 原则
 "What You Test Is What You Get"（你考什么就得到什么）。高利害考试是强有力的杠杆：考试中如果包含建模，教师就会教建模。因此，Shell Centre 的策略之一是开发可以嵌入考试系统的建模评估任务。
@@ -123,3 +135,21 @@ Numeracy Through Problem Solving 的五个建模模块：
 - **"共同问题表"是教师备课的利器**: 提前预测学生可能遇到的困难，并准备好非引导性的问题，比临时想办法有效得多。
 - **角色转换是建模课堂的标志**: 如果教师还在"讲"而学生在"听"，那就不是建模教学。建模课堂的标志是教师退到支持性角色，学生承担主导性角色。
 - **"设计戏剧"思维改变课堂设计**: 把课堂想象成一出有悬念的戏剧，而不是一个信息传递的过程。这个思维框架能帮助教师设计出更有吸引力的建模课。
+
+---
+
+## 交叉引用
+
+### Sessions
+- [[S1 Introduction]] — Shell Centre 和 University of Nottingham 在 S1 作为课程关键资源引出
+- [[S5 Mathematical Concepts]] — 建模作为学习数学的途径（illustrative applications vs active modelling）
+- [[S9 Teacher Researcher Designer]] — Burkhardt 的工程研究方法是教师作为设计者的范例
+
+### Readings
+- [[R03-Designing-Using-Math-Tasks|R03 Mason]] — R03 的 Launch-Explore-Discuss 与 Burkhardt 的 FAL 结构一脉相承
+- [[R08-Mathematical-Modelling-Handbook|R08 Reber]] — R08 的 mindfulness 框架解释了为什么 Burkhardt 的角色转换（从讲解者到顾问）能促进更深层的学习
+- [[R11-Modelling-in-Classroom|R11 Hall & Lingefjard]] — R11 展示了技术工具如何支撑 R10 的建模教学策略
+
+### Cases
+- [[C3 Cola Can Optimisation]] — 典型的 active modelling 任务，不是 illustrative application
+- [[C4 Tilted Squares (NRICH)|C4 Tilted Squares]] — NRICH 类型的 explore and discover 任务
