@@ -40,4 +40,4 @@
 
 ## 体现的理论
 
-[[R5 RME - Realistic Mathematics Education]] guided reinvention, [[S5 Mathematical Concepts]] didactical phenomenology
+[[R05-RME2026|R05 RME]] guided reinvention, [[S5 Mathematical Concepts]] didactical phenomenology

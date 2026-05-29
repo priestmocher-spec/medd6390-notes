@@ -131,7 +131,7 @@
 
 ## 体现的理论
 
-- [[S3 Maths Talk]]：诊断评估中的"举手指投票 + 解释推理"是典型的 classroom talk 策略
-- [[S4 Designing Tasks]]：从 routine calculation 到 open-ended optimisation 的任务递进，体现 cognitive demand 的层次
-- [[S5 Representations]]：公式、数值表、图像三种表征的系统运用
+- [[S4 Maths Talk]]：诊断评估中的"举手指投票 + 解释推理"是典型的 classroom talk 策略
+- [[S2 Task Design]]：从 routine calculation 到 open-ended optimisation 的任务递进，体现 cognitive demand 的层次
+- [[S5 Mathematical Concepts]]：公式、数值表、图像三种表征的系统运用
 - formative assessment：诊断题 + misconception 分析 + 课堂即时反馈

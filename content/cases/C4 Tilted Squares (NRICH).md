@@ -98,5 +98,5 @@
 ## 体现的理论
 
 - [[S6 Mathematical Thinking]]：specialising（具体案例）→ generalising（一般猜想）→ conjecturing（提出命题）→ convincing（证明），完整体现 Mason 的数学思维四过程
-- [[S4 Designing Tasks]]：low floor high ceiling 的任务设计原则
-- [[S5 Representations]]：点阵网格作为 enactive/iconic 表征，连接到 symbolic 表征 (a^2 + b^2)
+- [[S2 Task Design]]：low floor high ceiling 的任务设计原则
+- [[S5 Mathematical Concepts]]：点阵网格作为 enactive/iconic 表征，连接到 symbolic 表征 (a^2 + b^2)

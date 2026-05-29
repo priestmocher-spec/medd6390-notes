@@ -47,4 +47,4 @@
 
 ## 体现的理论
 
-[[S7 Mastery and Variation]], [[S3 Digital Tools]], [[R5 RME - Realistic Mathematics Education]]
+[[S7 Mastery and Variation]], [[S3 Digital Tools]], [[R05-RME2026|R05 RME]]

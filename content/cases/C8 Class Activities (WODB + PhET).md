@@ -60,4 +60,4 @@
 
 ## 体现的理论
 
-[[R5 RME - Realistic Mathematics Education]], [[S3 Digital Tools]], [[S6 Mathematical Thinking]]
+[[R05-RME2026|R05 RME]], [[S3 Digital Tools]], [[S6 Mathematical Thinking]]
